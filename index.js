@@ -1,3 +1,4 @@
+/* Powered by CodeByTushu | Developed by Tushpendra Kumar | https://codebytushu.com */
 
 
 const check = document.querySelector('#check');
